@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Avery (@averyapp699) 👋
 
-<!--
-**averyapp699/averyapp699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst based in Sydney. Most of my work involves wrangling messy tabular data, writing SQL, and building lightweight data scripts with Python and DuckDB.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- Moving chunky local Pandas workloads over to DuckDB
+- Building small CLI tools to automate daily ETL tasks
+- Playing with Australian public transit and census datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox:
+- **Languages:** Python, SQL, Bash
+- **Analysis & DBs:** Pandas, DuckDB, NumPy, Jupyter, PostgreSQL, SQLite
+- **Workflow:** Git, VS Code
+
+#### Get in touch:
+- Find me on [LinkedIn](https://linkedin.com)
+- Or open an issue on any of my repos
